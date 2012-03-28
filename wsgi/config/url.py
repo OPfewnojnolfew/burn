@@ -1,0 +1,3 @@
+urls=(
+    '/.*',  'controllers.hello.hello',
+)
